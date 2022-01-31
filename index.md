@@ -13,10 +13,13 @@
 
 ### Machine Learning
 
-- [Random Forest using real loan data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/random_forest/loan_data)
-- [Support Vector Machine using real breast cancer data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/support_vector_machines/breast_cancer_data)
-- [Logistic Regression using simulated advertisement data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/logistic_regression/ad_data)
-- [K Nearest Neighbos using simulated data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/k_nearest_neighbors/simulated_data)
+- [Random Forest using real loan data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/random_forest/loan_data/random_forest_load_data.ipynb)
+<img src="images/RF_loan_lmplot.png?raw=true"/>
+- [Support Vector Machine using real breast cancer data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/support_vector_machines/breast_cancer_data/svm_breast_cancer.ipynb)
+- [Logistic Regression using simulated advertisement data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/logistic_regression/ad_data/ad_data_machine_learning.ipynb)
+- [K Nearest Neighbos using simulated data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/k_nearest_neighbors/simulated_data/k_near_neighbor_simulated_data.ipynb)
+<img src="images/KNN_pairplot.png?raw=true"/>
+<img src="images/KNN_elbow.png?raw=true"/>
 
 
 ---
