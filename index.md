@@ -2,28 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Case Study
 
-[Project 1 Title](/sample_page)
+[Sleep Data Case Study](https://github.com/sschwartzdata/Case-Study-Sleep-Quality)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Machine Learning
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Random Forest using real loan data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/random_forest/loan_data)
+- [Support Vector Machine using real breast cancer data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/support_vector_machines/breast_cancer_data)
+- [Logistic Regression using simulated advertisement data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/logistic_regression/ad_data)
+- [K Nearest Neighbos using simulated data](https://github.com/sschwartzdata/machine_learning_practice/tree/main/k_nearest_neighbors/simulated_data)
+
 
 ---
 
