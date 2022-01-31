@@ -5,7 +5,7 @@
 ### Case Study
 
 [Sleep Data Case Study](https://github.com/sschwartzdata/Case-Study-Sleep-Quality)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sleep_case_study_dashboard.png?raw=true"/>
 
 
 
@@ -17,7 +17,7 @@
 <img src="images/RF_loan_lmplot.png?raw=true"/>
 
 - [Support Vector Machine using real breast cancer data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/support_vector_machines/breast_cancer_data/svm_breast_cancer.ipynb)
-<img src="images/sleep_case_study_dashboard.png?raw=true"/>
+
 
 - [Logistic Regression using simulated advertisement data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/logistic_regression/ad_data/ad_data_machine_learning.ipynb)
 <img src="logistic_ad_joint_kde.png?raw=true"/>
