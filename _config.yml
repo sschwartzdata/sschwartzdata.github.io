@@ -1,10 +1,12 @@
 title: Sarah Schwartz # your name (or website title) here
 logo: "/images/self.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a data analyst who is working on documenting my expanding data science skills. I have 
-  a Bachelor's Degree in Mathematics from the University of Southern Indiana, and a Master's Degree
-  in Physics from Michigan State University. My unique educational background and experience gives
-  me a unique prospective when it comes to data analysis.
+  I am a data analyst who is working on documenting my expanding data science skills.
+  <br><br>
+  I have a Bachelor's Degree in Mathematics from the University of Southern Indiana, and a Master's Degree
+  in Physics from Michigan State University. 
+  <br><br>
+  My unique educational background and experience gives me a unique prospective when it comes to data analysis.
   <br><br>
    
   <br><br>
