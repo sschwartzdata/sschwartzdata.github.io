@@ -10,19 +10,24 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   
   <strong>Continuing Education:</strong>
-  <br><br>
+  \n
   <a href="https://www.credly.com/badges/f038f910-45b2-4ec6-8f71-e4e7238e2c96/public_url">Google Data Analytics Professional Certificate</a> 
-  <br><br>
+  \n
   <a href="https://www.udemy.com/certificate/UC-b2e9e0a3-2aa5-4bda-97fb-f657c2b09632/">2022 Complete Python Bootcamp From Zero to Hero in Python</a>
   
   <br><br>
   <strong>Links:</strong>
-  <br><br>
+  \n
   <a href="https://www.linkedin.com/in/sarah-schwartz-data/">View My LinkedIn Profile</a> 
-  <br><br>
+  \n
   <a href="https://public.tableau.com/app/profile/sarah4232#!/">View My Tableau Public Profile</a> 
-  <br><br>
-  
+  \n
+ 
+ 
+ 
+ 
+ 
+ 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
