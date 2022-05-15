@@ -49,7 +49,7 @@
 - Data manipulation using R
 - Data visualization using R and Tableau
 - Analysis reporting and recommendations documented in a Google Sheets
-- 
+
 <img src="images/sleep_case_study_dashboard.png?raw=true"/>
 
 
