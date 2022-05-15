@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### Data Engineering
+### <ins>Data Engineering</ins>
 
 [FitBit API to Tableau Project](https://github.com/sschwartzdata/fitbit_DE_project)
 
@@ -33,7 +33,7 @@
 <img src="images/Dashboard_sleep_fitbit.png?raw=true"/>
 ---
 
-### Data Analysis
+### <ins>Data Analysis</ins>
 
 [Sleep Data Case Study](https://github.com/sschwartzdata/Case-Study-Sleep-Quality)
 
@@ -56,7 +56,7 @@
 
 ---
 
-### Machine Learning
+### <ins>Machine Learning</ins>
 
 - [Random Forest using real loan data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/random_forest/loan_data/random_forest_load_data.ipynb)
 <img src="images/RF_loan_lmplot.png?raw=true"/>
