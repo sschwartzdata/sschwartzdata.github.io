@@ -1,11 +1,11 @@
-## Portfolio
+# Portfolio
 
 ---
-### <ins>Data Engineering</ins>
+## <ins>**Data Engineering**</ins>
 
 [FitBit API to Tableau Project](https://github.com/sschwartzdata/fitbit_DE_project)
 
-#### <ins>Tools Used</ins>
+### <ins>**Tools Used:**</ins>
 **Query Language:** SQL <br>
 **Coding Language:** Python <br>
 **Python Packages:** 
@@ -18,7 +18,7 @@
 **Database:** Postgres <br>
 **Data Visualizations:** Tableau <br>
 
-#### <ins>Skills Demonstrated</ins>
+### <ins>Skills Demonstrated:</ins>
 - Pulling data from an API
 - Parsing JSON files
 - Pushing data to a Postgres database
@@ -33,18 +33,18 @@
 <img src="images/Dashboard_sleep_fitbit.png?raw=true"/>
 ---
 
-### <ins>Data Analysis</ins>
+## <ins>Data Analysis</ins>
 
 [Sleep Data Case Study](https://github.com/sschwartzdata/Case-Study-Sleep-Quality)
 
-#### <ins>Tools Used</ins>
+### <ins>Tools Used:</ins>
 **Data Warehouse:** BigQuery <br>
 **Query Language:** SQL <br>
 **Coding Language:** R <br>
 **Data Visualizations:** R and Tableau <br>
 **Reporting:** R Markdown and Google Sheets
 
-#### <ins>Skills Demonstrated</ins>
+### <ins>Skills Demonstrated:</ins>
 - Data cleaning using R and SQL
 - Data manipulation using R
 - Data visualization using R and Tableau
@@ -56,7 +56,7 @@
 
 ---
 
-### <ins>Machine Learning</ins>
+## <ins>Machine Learning</ins>
 
 - [Random Forest using real loan data](https://github.com/sschwartzdata/machine_learning_practice/blob/main/random_forest/loan_data/random_forest_load_data.ipynb)
 <img src="images/RF_loan_lmplot.png?raw=true"/>
