@@ -6,13 +6,27 @@ description: > # your text below (remove <br> elements if you don't need line br
   I have a Bachelor's Degree in Mathematics from the University of Southern Indiana, and a Master's Degree
   in Physics from Michigan State University. 
   <br><br>
-  My unique educational background and experience gives me a unique prospective when it comes to data analysis.
+  My education and experience gives me a unique prospective when it comes to data analysis.
   <br><br>
-   
+  
+  <strong>Continuing Education:</strong>
+  <p><a href="https://www.credly.com/badges/f038f910-45b2-4ec6-8f71-e4e7238e2c96/public_url">Google Data Analytics Professional Certificate</a></p> 
+  
+  <p><a href="https://www.udemy.com/certificate/UC-b2e9e0a3-2aa5-4bda-97fb-f657c2b09632/">2022 Complete Python Bootcamp From Zero to Hero in Python</a></p>
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/sarah-schwartz-data/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://public.tableau.com/app/profile/sarah4232#!/">View My Tableau Public Profile</a> 
+  <strong>Links:</strong>
+  
+  <p><a href="https://www.linkedin.com/in/sarah-schwartz-data/">View My LinkedIn Profile</a></p> 
+  
+  <p><a href="https://public.tableau.com/app/profile/sarah4232#!/">View My Tableau Public Profile</a></p>
+  
+ 
+ 
+ 
+ 
+ 
+ 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
