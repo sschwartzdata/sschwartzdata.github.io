@@ -5,7 +5,7 @@
 
 [FitBit API to Tableau Project](https://github.com/sschwartzdata/fitbit_DE_project)
 
-#### Tools Used
+#### <ins>Tools Used</ins>
 **Query Language:** SQL <br>
 **Coding Language:** Python <br>
 **Python Packages:** 
@@ -18,7 +18,7 @@
 **Database:** Postgres <br>
 **Data Visualizations:** Tableau <br>
 
-#### Skills Demonstrated
+#### <ins>Skills Demonstrated</ins>
 - Pulling data from an API
 - Parsing JSON files
 - Pushing data to a Postgres database
@@ -37,14 +37,14 @@
 
 [Sleep Data Case Study](https://github.com/sschwartzdata/Case-Study-Sleep-Quality)
 
-#### Tools Used
+#### <ins>Tools Used</ins>
 **Data Warehouse:** BigQuery <br>
 **Query Language:** SQL <br>
 **Coding Language:** R <br>
 **Data Visualizations:** R and Tableau <br>
 **Reporting:** R Markdown and Google Sheets
 
-#### Skills Demonstrated
+#### <ins>Skills Demonstrated</ins>
 - Data cleaning using R and SQL
 - Data manipulation using R
 - Data visualization using R and Tableau
